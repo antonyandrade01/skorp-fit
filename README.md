@@ -6,6 +6,8 @@
 >
 > **Private repository notice:** This repository is the public architecture showcase for Skorp Fit. Source code is private as a proprietary product in active use. Live demos are available on request: [antonymsandrade@gmail.com](mailto:antonymsandrade@gmail.com) or [LinkedIn](https://www.linkedin.com/in/antonyandrade01/).
 
+**No ar / Live:** [gym.antonyandrade.com.br](https://gym.antonyandrade.com.br) (app no ar; pede login / live app; requires login). Acesso de demonstração sob pedido / Demo access on request.
+
 ---
 
 ## Arquitetura / Architecture
