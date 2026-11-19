@@ -16,7 +16,7 @@ flowchart LR
     CORE["Shared TypeScript Domain (core/)"] -.-> PWA
     CORE -.-> API
     API --> PG["PostgreSQL (Raw postgres Driver + JSONB)"]
-    API --> EXT["Hevy API/CSV & Strava OAuth2 Import"]
+    API --> EXT["Hevy API/CSV Import (Strava in testing)"]
     API --> PUSH["Web Push Notifications"]
     subgraph MEDIA["Offline 3D Media Pipeline (Separate Repo)"]
         JSON["320 CC0 Motion JSONs (openrep)"] --> BL["Python + Blender 4.2 Headless + MPFB2"]
