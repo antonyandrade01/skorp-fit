@@ -39,8 +39,7 @@ Apps comerciais de musculação e cardio cobram assinaturas caras para liberar r
 
 ### Números reais
 
-- Em produção, usado por mim e por mais cerca de 3 pessoas.
-- Registra 9 usuários cadastrados e 220 treinos salvos no banco de produção.
+- Em produção, em uso por usuários reais.
 - Inclui pipeline separado de renderização 3D cobrindo 320 movimentos de exercícios em JSON sob licença CC0, gerando cerca de 21 exercícios completos em ~13 minutos na workstation via SSH (cerca de 8x mais rápido que no servidor sem GPU).
 
 ### Decisões técnicas e trade-offs
@@ -86,8 +85,7 @@ Commercial gym and cardio apps lock unlimited routines, full history, group chal
 
 ### Real numbers
 
-- Running in production, used by me and about 3 other people.
-- Stores 9 users and 220 logged workouts in the production database.
+- Running in production with real users.
 - Backed by a separate 3D rendering pipeline covering 320 CC0 exercise motion JSONs, rendering a 21-exercise workout batch in ~13 minutes via SSH offload to a desktop workstation (~8x faster than CPU-only server rendering).
 
 ### Technical decisions and trade-offs
